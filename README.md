@@ -1,3 +1,3 @@
 # Personal Library
 
-This is the boilerplate for the Personal Library project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library
+This is a freeCodeCamp project where one creates a library of books with MongoDB and creates a CRUD api to handle book request. It also contains a 2_functional_tests file to run tests on the API;
